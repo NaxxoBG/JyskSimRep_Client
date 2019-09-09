@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarehouseStressTest", "WarehouseClient\WarehouseStressTest.csproj", "{42EFD8EA-ADAB-4850-9ED1-DA0A8AB474D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrivalStation", "ArrivalStation\ArrivalStation.csproj", "{CEAAA795-2050-47A5-A83E-E81F4B80BCBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PickStationApp", "PickStationApp\PickStationApp.csproj", "{52F2966B-DF8F-4879-8F1D-F4C0BCB97F74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42EFD8EA-ADAB-4850-9ED1-DA0A8AB474D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42EFD8EA-ADAB-4850-9ED1-DA0A8AB474D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42EFD8EA-ADAB-4850-9ED1-DA0A8AB474D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42EFD8EA-ADAB-4850-9ED1-DA0A8AB474D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEAAA795-2050-47A5-A83E-E81F4B80BCBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEAAA795-2050-47A5-A83E-E81F4B80BCBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEAAA795-2050-47A5-A83E-E81F4B80BCBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEAAA795-2050-47A5-A83E-E81F4B80BCBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52F2966B-DF8F-4879-8F1D-F4C0BCB97F74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52F2966B-DF8F-4879-8F1D-F4C0BCB97F74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52F2966B-DF8F-4879-8F1D-F4C0BCB97F74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52F2966B-DF8F-4879-8F1D-F4C0BCB97F74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
